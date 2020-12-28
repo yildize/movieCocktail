@@ -2,7 +2,7 @@
 * Movie Cocktail suggests new movies based on the selected combination of movies.
 * Not sure which movie to watch? Want to watch something similar to movies you've watched before?
 * Search and select movies you've already watch, mix them as you wish and get the closest movies to the cocktail.
-* Here is the link of the app: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yildize/movieCombiner/master?urlpath=voila%2Frender%2FmovieCombinerV4.ipynb)
+* Here is the link of the app: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yildize/movieCocktail/master?filepath=voila%2Frender%2FmovieCocktail.ipynb)
 
 ## How it Works?
 * Let's say you want to watch something 30% like 'the Matrix (1999)' and 70% like 'Titanic (1997)' then you can search for the movies **the Matrix (1999)** and **Titanic (1997)**,combine them as you wish and find the top ten closest movies to this combination.
