@@ -10,9 +10,9 @@
 
 ## Distances?
 * These values are basically L2 distances between vectors. There are three different distance measures specified.
-* First one represents the distance between the cocktail to the specified movie.
-* The second distance represents the average distance of the cocktail to any movie.
-* The last distance represents the average distance of the specified movie to any other movie.
+* First distance on the top represents the average distance of the cocktail to any movie.
+* The second one represents the distance between the cocktail to the specified movie.
+* Extra distance info button shows the average distance of the specified movie to any other movie.
 
 ## Under the Hood
 * Movie Cocktail uses movie embeddings obtained by a collaborative filtering model trained on 25m movie ratings.
